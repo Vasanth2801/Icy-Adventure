@@ -65,7 +65,7 @@ public class Player : MonoBehaviour
             
             foreach(Collider2D hit in hitEnemies)
             {
-                Debug.Log("attacking " + gameObject.name);
+                Debug.Log("attacking " + hit.name);
             }
         }
     }
