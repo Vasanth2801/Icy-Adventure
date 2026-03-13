@@ -164,7 +164,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ObjectPooler
   pools:
-  - prefab: {fileID: 7412030506061762615, guid: 9e617dfb5de9dc3498a55ddde36951e8, type: 3}
+  - prefab: {fileID: 571428277052312200, guid: 067e91bb051caed41afcd0c7d9886b38, type: 3}
     objectTag: Kunai
     size: 20
 --- !u!1 &427147641
